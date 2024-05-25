@@ -1,6 +1,7 @@
-pillow=10.3.0=py39h5eee18b_0
-tensorboard=2.15.2=pypi_0
-tensorboard-data-server=0.7.2=pypi_0
-tensorflow=2.15.0=pypi_0
-tensorflow-estimator=2.15.0=pypi_0
-tensorflow-io-gcs-filesystem=0.36.0=pypi_0
+streamlit==1.10.0
+tensorflow==2.9.1
+Pillow==9.1.1
+numpy==1.22.4
+matplotlib==3.5.2
+opencv-python-headless==4.5.5.64
+scikit-learn==1.1.1
